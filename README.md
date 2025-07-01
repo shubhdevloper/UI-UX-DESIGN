@@ -13,6 +13,8 @@ DURATION : 6 WEEKS
 MENTOR : NEELA SANTOSH
 
 APPLE MUSIC 
+REAL UI
+![Image](https://github.com/user-attachments/assets/84d4bcb7-013e-46c5-b4f7-e7665978820b)
 As part of my UI redesign project, I chose to reimagine the Apple Music interface with a focus on visual clarity, content accessibility, and user experience. Below is a brief summary of the design decisions I made during the redesign process:
 
 1. Dark Mode Focus
